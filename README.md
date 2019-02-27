@@ -22,8 +22,6 @@ npm i -S react-native-actionsheetplus   # or yarn add react-native-actionsheetpl
 
 ## Usage
 
-### Firs
-
 ```js
 import ActionSheetPlus from  "react-native-actionsheetplus";
 
