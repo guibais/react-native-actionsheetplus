@@ -63,6 +63,25 @@ export default class App extends Component<Props> {
   }
 ```
 
+The Popup component uses react-native-modal. So you can pass all react-native-modal properties inside "modalProps" to modify styling and animations.
+
+Also, you can customize the styling of the popup by passing an object like this in the style prop of the Popup component:
+
+```js
+{
+    container: {},
+    itemContainer: {},
+    image: {},
+    itemText: {},
+    headerContainer: {},
+    titleText: {},
+    subtitleText: {},
+    cancelButtonContainer: {},
+    cancelButtonText: {},
+    separatorStyle: {},
+    activityIndicatorContainer: {}
+}
+```
 
 
 ## Authors
@@ -70,3 +89,5 @@ export default class App extends Component<Props> {
 This library is forked from [React-Native-Map-Link](https://github.com/leanmotherfuckers/react-native-map-link) but optmized for generic things not only maps
 
 * Guilherme Bais, [@guilhermebais](https://www.instagram.com/guilhermebais/)
+
+
