@@ -1,34 +1,19 @@
 {
-   "name": "react-native-map-link",
-   "version": "2.1.6",
-   "description": "Open the map app of the user's choice with a specific location",
-   "main": "index.js",
-   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/includable/react-native-map-link.git"
-   },
-   "keywords": [
-      "react-native",
-      "react-component",
-      "maps",
-      "link",
-      "linking",
-      "react",
-      "ios",
-      "android"
-   ],
-   "author": "Thomas Schoffelen <thomas@includable.com> (https://includable.com/)",
-   "license": "MIT",
-   "bugs": {
-      "url": "https://github.com/includable/react-native-map-link/issues"
-   },
-   "homepage": "https://github.com/includable/react-native-map-link#readme",
-   "peerDependencies": {
-      "react": ">=16.0.0",
-      "react-native": ">=0.40.0"
-   },
-   "dependencies": {
-      "prop-types": "^15.6.1",
-      "react-native-modal": "^6.4.0"
-   }
+  "name": "react-native-actionsheetplus",
+  "version": "1.0.0",
+  "description": "An ActionSheet for your react native app!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guibais/plusactionsheet.git"
+  },
+  "author": "Guilherme Bais Sousa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guibais/plusactionsheet/issues"
+  },
+  "homepage": "https://github.com/guibais/plusactionsheet#readme"
 }

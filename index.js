@@ -1,11 +1,3 @@
-/**
- * React Native Map Link
- */
+import ActionSheetPlus from "./actionSheet";
 
-import Popup from './src/components/Popup'
-import { showLocation } from './src'
-
-export {
-  showLocation,
-  Popup
-}
+export default ActionSheetPlus;
